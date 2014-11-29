@@ -1,0 +1,50 @@
+.mainContainer{
+    width:1024px;
+    margin:0 auto;
+    background: rgba(67,129,163,1);
+    background: -moz-linear-gradient(top, rgba(67,129,163,1) 0%, rgba(212,228,239,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(67,129,163,1)), color-stop(100%, rgba(212,228,239,1)));
+    background: -webkit-linear-gradient(top, rgba(67,129,163,1) 0%, rgba(212,228,239,1) 100%);
+    background: -o-linear-gradient(top, rgba(67,129,163,1) 0%, rgba(212,228,239,1) 100%);
+    background: -ms-linear-gradient(top, rgba(67,129,163,1) 0%, rgba(212,228,239,1) 100%);
+    background: linear-gradient(to bottom, rgba(67,129,163,1) 0%, rgba(212,228,239,1) 100%);
+}
+
+#menu {font-size:30px; position:absolute; top:20px; left:20px; z-index:10000; cursor:pointer; margin:0 auto; width:1000px; color:Green;}
+#menu li{display:inline; padding:0 50px;}
+#menu li:hover{text-shadow: 4px 4px 4px #bbb;}
+
+#instructionsContainer {position:absolute; top:20px; z-index:10000; width:1024px; cursor:pointer; color:Green; display:none;}
+#instructionsContainer ul{font-size:42px; list-style-type:none; text-shadow: 2px 2px 2px #bbb; line-height:60px;}
+
+#closeHelp {position:absolute; top:250px; left:950px; text-align:center; line-height:30px; z-index:10000; width:30px; height:30px; background-color:Green; color:White; border-radius:15px;}
+
+.center, #myForm {
+    text-align: center;
+}
+
+#logIn, #register {
+    width: 100px;
+    height: 30px;
+    border: 7px solid #4764B5;
+    border-radius: 35px;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 10px;
+    padding: 6px;
+    font-size: 23px;
+    cursor: pointer;
+}
+
+#user-ask {
+    margin-top: 140px;
+    font-size: 20px;
+    display: inline-block;
+}
+
+#userName {
+    width: 180px;
+    height: 23px;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
