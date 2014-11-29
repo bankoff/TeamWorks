@@ -1,0 +1,108 @@
+﻿<Window x:Class="UITournament.TоurnamentView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TоurnamentView" Height="500" Width="1000">
+    <Window.Resources>
+        <Style x:Key ="GreenYellowButton"
+            TargetType = "Control">
+            <Setter Property="Background" 
+                Value = "#FFB4FF00"/>
+            <Setter Property="BorderBrush" 
+                Value = "Black"/>
+            <Setter Property="BorderThickness" 
+                Value = "50"/>
+            <Setter Property="FontSize" 
+                Value = "20"/>
+            <Setter Property="FontStyle" 
+                Value ="Normal"/>
+            <Setter Property="Height" 
+                Value ="40"/>
+            <Setter Property="Width" 
+                Value ="300"/>
+            <Setter Property="HorizontalContentAlignment" 
+                Value ="Center"/>
+
+        </Style>
+    </Window.Resources>
+    <Canvas Background="#FF2D2D30">
+
+        <TextBlock Name="Tournament1" 
+                   Canvas.Left="20" 
+                   Canvas.Top="20" 
+                   FontSize="30" 
+                   Foreground="#FF9AC30F" 
+                   FontFamily="Aharoni">
+            Tournament 1
+        </TextBlock>
+
+        <TextBlock Name="Man_Tournament" 
+                   Canvas.Left="20" 
+                   Canvas.Top="60" 
+                   FontSize="30" 
+                   Foreground="#FF9AC30F" 
+                   FontFamily="Aharoni">
+            Man Tournament
+        </TextBlock>
+        <TextBlock Name="Woman_Tournament" 
+                   Canvas.Left="400" 
+                   Canvas.Top="60" 
+                   FontSize="30" 
+                   Foreground="#FF9AC30F" 
+                   FontFamily="Aharoni">
+            Woman Tournament
+        </TextBlock>
+        <Button Canvas.Top="110" Canvas.Left="10" Name="spr100metres" Content="sprint 100 metres"
+                Click="sprint100metresClick"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+        <Button Canvas.Top="160" Canvas.Left="10" Name="spr200metres" Content=" sprint 200 metres"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+        <Button Canvas.Top="210" Canvas.Left="10" Name="spr400metres" Content="sprint 400 metres"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+        <Button Canvas.Top="260" Canvas.Left="10" Name="longjump" Content="long jump"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+        <Button Canvas.Top="310" Canvas.Left="10" Name="triplejump" Content="triple jump"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+        <Button Canvas.Top="110" Canvas.Left="400"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+        <Button Canvas.Top="160" Canvas.Left="400"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+        <Button Canvas.Top="210" Canvas.Left="400"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+        <Button Canvas.Top="260" Canvas.Left="400"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+        <Button Canvas.Top="310" Canvas.Left="400"
+            Style="{StaticResource GreenYellowButton}" >
+        </Button>
+
+
+
+    </Canvas>
+</Window>
+<!--        <ListView Canvas.Top="90" Canvas.Left="17" Width="480" Background="#FF2D2D30" BorderBrush="#FF2D2D30">
+        <ListView.View >
+            <GridView>
+                <GridViewColumn Header="Man Disciplines" 
+                                Width="120"
+                                />
+                <GridViewColumn Header="Veiw" 
+                                Width="120"
+                                />
+                <GridViewColumn Header="Woman Disciplines"
+                                Width="120"
+                                />
+                <GridViewColumn Header="Veiw" 
+                                Width="120"
+                               />
+                </GridView>
+        </ListView.View>
+    </ListView>-->
+<!-- another idea-->

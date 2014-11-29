@@ -1,0 +1,293 @@
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\bin\Debug\UITournament.exe.config
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\bin\Debug\UITournament.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\bin\Debug\UITournament.pdb
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.pdb
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\MainWindow.baml
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\NewTournament.baml
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\MainWindow.g.cs
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\NewTournament.g.cs
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\App.g.cs
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\UITournament.g.resources
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\UITournament.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\UITournament.pdb
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\bin\Debug\UITournament.exe.config
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.exe
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.pdb
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\bin\Debug\UITournament.exe
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\bin\Debug\UITournament.pdb
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.exe
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.pdb
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\MainWindow.baml
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\NewTournament.baml
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\MainWindow.g.cs
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\NewTournament.g.cs
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\App.g.cs
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.g.resources
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.baml
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\bin\Debug\UITournament.exe.config
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\bin\Debug\UITournament.exe
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\bin\Debug\UITournament.pdb
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.exe
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.pdb
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.baml
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\MainWindow.baml
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\NewTournament.baml
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\Standing.baml
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\TоurnamentView.baml
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\MainWindow.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\NewTournament.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\Standing.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\TоurnamentView.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\App.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\UITournament.g.resources
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\UITournament.exe
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuide\UITournament\obj\Debug\UITournament.pdb
+D:\TELERIK\OOP\TeamProject\UITournament\bin\Debug\UITournament.exe.config
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\UITournament.exe
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\UITournament.pdb
+D:\TELERIK\OOP\TeamProject\UITournament\bin\Debug\UITournament.exe
+D:\TELERIK\OOP\TeamProject\UITournament\bin\Debug\UITournament.pdb
+D:\TELERIK\OOP\TeamProject\UITournament\bin\Debug\AthleticsStatistics.exe
+D:\TELERIK\OOP\TeamProject\UITournament\bin\Debug\AthleticsStatistics.pdb
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\CreatePlayer.baml
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\MainWindow.baml
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\NewTournament.baml
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\CreatePlayer.g.cs
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\MainWindow.g.cs
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\NewTournament.g.cs
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\App.g.cs
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\UITournament.g.resources
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\TELERIK\OOP\TeamProject\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.baml
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.g.cs
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\UITournament.exe.config
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.exe
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.pdb
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\UITournament.exe
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\UITournament.pdb
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.exe
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.pdb
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.baml
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\MainWindow.baml
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\NewTournament.baml
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.g.cs
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\MainWindow.g.cs
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\NewTournament.g.cs
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\App.g.cs
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.g.resources
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\Trash\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\UITournament.exe.config
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.exe
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.pdb
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.baml
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\MainWindow.baml
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\NewTournament.baml
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\CreatePlayer.g.cs
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\MainWindow.g.cs
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\NewTournament.g.cs
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\App.g.cs
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.g.resources
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\UITournament.exe
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\UITournament.pdb
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.exe
+D:\TELERIK\OOP\AtleticTeamProject\AthleticsGuide\UITournament\bin\Debug\AthleticsStatistics.pdb
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe.config
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.exe
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.pdb
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.baml
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.g.cs
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\App.g.cs
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.g.resources
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\UITournament.pdb
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe.config
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.pdb
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.baml
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.g.cs
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\App.g.cs
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.g.resources
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\UITournament.pdb
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.WpfPlatform.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Platform.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Markup.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Utility.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.WpfPlatform.resources.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Platform.resources.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Markup.resources.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Interaction.resources.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Utility.resources.dll
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.baml
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.g.cs
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.WpfPlatform.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Platform.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Markup.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Utility.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.WpfPlatform.resources.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Platform.resources.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Markup.resources.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Interaction.resources.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Utility.resources.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.baml
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.g.cs
+D:\oop\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe.config
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\UITournament.exe
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\UITournament.pdb
+D:\oop\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe
+D:\oop\AthleticsGuideUI\UITournament\bin\Debug\UITournament.pdb
+D:\oop\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\oop\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\oop\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\oop\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Interaction.resources.dll
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\CreatePlayer.baml
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.baml
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.baml
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\NewTournament.baml
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\CreatePlayer.g.cs
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.g.cs
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.g.cs
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\NewTournament.g.cs
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\App.g.cs
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\UITournament.g.resources
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe.config
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.exe
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.pdb
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\UITournament.pdb
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.WpfPlatform.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Platform.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Markup.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Utility.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.WpfPlatform.resources.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Platform.resources.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Markup.resources.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Utility.resources.dll
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\CreatePlayer.baml
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.baml
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.baml
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\NewTournament.baml
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\CreatePlayer.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\NewTournament.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\App.g.cs
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.g.resources
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.lref
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\oop\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.lref
+D:\Telerik\OOP\Team Project\athletics-guide-teamproject\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.lref
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.lref
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe.config
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.exe
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.pdb
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\UITournament.pdb
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.WpfPlatform.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Platform.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Markup.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Utility.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.WpfPlatform.resources.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Platform.resources.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Markup.resources.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Interaction.resources.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Utility.resources.dll
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\OldCode\CreatePlayer.baml
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.baml
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\OldCode\NewTournament.baml
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\OldCode\CreatePlayer.g.cs
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.g.cs
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.g.cs
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\OldCode\NewTournament.g.cs
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\App.g.cs
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.lref
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.baml
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.g.resources
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+D:\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\WpfAnimatedGif.dll
+D:\DanTelerik\TELERIK\OOP\TeamProject\AthleticsGuideUI\UITournament\bin\Debug\WpfAnimatedGif.xml
+D:\01.Телерик Академи\01.Spring\04.ООП\20.ProjectOOP\AthleticsGuideUI\UITournament\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe.config
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.exe
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.pdb
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\UITournament.exe
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\UITournament.pdb
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Platform.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Markup.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\Microsoft.Expression.Utility.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.WpfPlatform.resources.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Platform.resources.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Extensibility.resources.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Markup.resources.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Windows.Design.Interaction.resources.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\bin\Debug\en\Microsoft.Expression.Utility.resources.dll
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.g.cs
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.g.cs
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\App.g.cs
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.cache
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament_MarkupCompile.lref
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\EditTournament.baml
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\MainWindow.baml
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.g.resources
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.Properties.Resources.resources
+C:\Users\Test\Desktop\02CSharp-OOP\AthleticsGuideUI\UITournament\obj\Debug\UITournament.csproj.GenerateResource.Cache
