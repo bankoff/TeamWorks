@@ -1,0 +1,6 @@
+﻿Congratulations  you  have managed to deal  with  the C#'s first Master's challenge.
+Congratulations  you  have managed to deal  with  the  OOP Master's challenge.
+Congratulations  you  have managed to deal with  the  HTML Master's challenge.
+Congratulations  you  have managed to  deal  with  the CSS Master's challenge.
+Congratulations  you   have  managed  to  deal  with  the  JavaScript's first Master's challenge.
+Congratulations you  have managed to deal with the Nakov's challenge.

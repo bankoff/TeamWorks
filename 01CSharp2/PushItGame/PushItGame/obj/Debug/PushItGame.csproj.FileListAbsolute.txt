@@ -1,0 +1,6 @@
+C:\Users\Test\Desktop\HW_bankoff_Otborna-rabota---suzdavane-na-igra_2013-09-01_21-33\PushItGame\PushItGame\bin\Debug\PushItGame.exe.config
+C:\Users\Test\Desktop\HW_bankoff_Otborna-rabota---suzdavane-na-igra_2013-09-01_21-33\PushItGame\PushItGame\bin\Debug\PushItGame.exe
+C:\Users\Test\Desktop\HW_bankoff_Otborna-rabota---suzdavane-na-igra_2013-09-01_21-33\PushItGame\PushItGame\bin\Debug\PushItGame.pdb
+C:\Users\Test\Desktop\HW_bankoff_Otborna-rabota---suzdavane-na-igra_2013-09-01_21-33\PushItGame\PushItGame\obj\Debug\PushItGame.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\HW_bankoff_Otborna-rabota---suzdavane-na-igra_2013-09-01_21-33\PushItGame\PushItGame\obj\Debug\PushItGame.exe
+C:\Users\Test\Desktop\HW_bankoff_Otborna-rabota---suzdavane-na-igra_2013-09-01_21-33\PushItGame\PushItGame\obj\Debug\PushItGame.pdb
