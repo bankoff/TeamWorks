@@ -1,0 +1,34 @@
+Underwater Game
+
+Participants: 
+jo.thirdeyevision ( Yoanna Mareva ), Yordan Bankov ( bankoff )
+
+We have created simple game, where you are a shark and
+ your goal is to eat as many fishes as you can.
+The obstacle for you is one fish that asks you questions
+ and if you dont answer correct the game is over.
+
+
+We have used Sprite Kit game engine.
+The project includes:
+
+-animations
+-custom views (scenes)
+-gestures 
+   -swipe
+   -pinch
+   -tap
+   -long press
+   
+-APIs
+   -geolocation
+   -vibration
+   -media
+   -connection
+
+-Core Data as a data storage
+-Parse.com as a remote data
+-validation and error handling
+
+link to github: https://github.com/Wooanna/SwordfishyGame
+
