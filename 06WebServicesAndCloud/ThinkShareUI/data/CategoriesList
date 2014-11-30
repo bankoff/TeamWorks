@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "name" : "Movies",
+         "image": "http://www.bestseosolution.net/wp-content/uploads/2013/01/article-spinning1.png"
+    },
+    {
+            "id" : 2,
+            "name" : "Books",
+             "image": "http://www.bestseosolution.net/wp-content/uploads/2013/01/article-spinning1.png"
+        },
+        {
+                "id" : 3,
+                "name" : "Science",
+                 "image": "http://www.bestseosolution.net/wp-content/uploads/2013/01/article-spinning1.png"
+            },
+            {
+                    "id" : 4,
+                    "name" : "Other",
+                     "image": "http://www.bestseosolution.net/wp-content/uploads/2013/01/article-spinning1.png"
+                }
+
+]

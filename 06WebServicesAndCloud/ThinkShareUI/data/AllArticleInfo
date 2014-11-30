@@ -1,0 +1,20 @@
+﻿[
+    {
+        "articleId" : 1,
+        "articleHead": "Statiq 1",
+        "articleAuthor": "Pesho",
+        "articleImage": "http://www.bestseosolution.net/wp-content/uploads/2013/01/article-spinning1.png"
+    },
+    {
+        "articleId" : 2,
+        "articleHead": "Statiq 2",
+        "articleAuthor": "Joro",
+        "articleImage": "http://www.bestseosolution.net/wp-content/uploads/2013/01/article-spinning1.png"
+    },
+    {
+         "articleId" : 3,
+         "articleHead": "Statiq 3",
+         "articleAuthor": "Miro",
+         "articleImage": "http://www.bestseosolution.net/wp-content/uploads/2013/01/article-spinning1.png"
+    }
+]

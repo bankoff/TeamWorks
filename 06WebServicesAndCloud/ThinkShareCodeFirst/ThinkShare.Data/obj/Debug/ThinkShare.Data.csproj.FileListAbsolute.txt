@@ -1,0 +1,12 @@
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\bin\Debug\ThinkShare.Data.dll.config
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\bin\Debug\ThinkShare.Data.dll
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\bin\Debug\ThinkShare.Data.pdb
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\bin\Debug\EntityFramework.dll
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\bin\Debug\ThinkShare.Model.dll
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\bin\Debug\ThinkShare.Model.pdb
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\bin\Debug\EntityFramework.xml
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\obj\Debug\ThinkShare.Data.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\obj\Debug\ThinkShare.Data.dll
+C:\Users\Test\Desktop\ThinkShare\ThinkShare-master\ThinkShareCodeFirst\ThinkShare.Data\obj\Debug\ThinkShare.Data.pdb

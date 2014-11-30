@@ -1,0 +1,15 @@
+<div class="container" >
+    <div class="row" ng-repeat="article in articles">
+        <div class="col-md-1 col-md-offset-2">
+            <img src="{{article.ArticleCategory}} " class="img-responsive article-category-image" alt="Responsive image">
+        </div>
+        <div class="col-md-9">
+            <div class="bs-component">
+                <blockquote class="pull-center">
+                    <p><a href="#/article/{{article.ArticleId}}"> {{article.ArticleHead}}</a></p>
+                    <small>Created By <cite title="Source Title"><a href="#/byauthor/{{article.ArticleAuthor }}">{{article.ArticleAuthor }}</a></cite></small>
+                </blockquote>
+            </div>
+        </div>
+    </div>
+</div>
