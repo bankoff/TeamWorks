@@ -1,0 +1,26 @@
+<div data-role="view" data-title="Gallery" data-layout="layout" data-model="app.Gallery" data-show="app.Gallery.show" data-init="app.Gallery.init">
+    <div data-role="header">
+        <select data-template="chooseTemplate" style="width: 90%; height: 100%; margin:5%; padding-top:1%; padding-bottom: 1%; font-size: 2em" data-bind="source: imagesOptions, events: { change: selectionImagesList }"></select>
+    </div>
+    <ul data-template="imagesTemplate" data-role="listview" data-bind="source: imagesDataList" id="imagesList"></ul>
+    <div data-role="footer">
+        <div data-role="tabstrip">
+            <a href="views/welcome.html" data-icon="home">Home</a>
+            <a href="views/add.html" data-icon="add">Search/Add</a>
+            <a href="views/gallery.html" data-icon="gallery">Gallery</a>
+        </div>
+        <p>&copy; <span data-bind="text: getYear"></span> Team Morpheus</p>
+    </div>
+</div>
+
+<script type="text/x-kendo-template" id="chooseTemplate">
+    <option value=" #: id #">
+        #: name #
+    </option>
+</script>
+
+<script type="text/x-kendo-template" id="imagesTemplate">
+        <img src='#: Uri #' style='width:100%' />
+        <span>#: Text #</span>
+</script>
+

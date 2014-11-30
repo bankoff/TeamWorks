@@ -1,0 +1,33 @@
+#tb-my-email {
+    display: block;
+    width: 90%;
+    font-size: 2em;
+    margin-left: 5%;
+}
+
+#save-my-email {
+    margin: 5%;
+    width: 90%;
+}
+
+.top-tabstrip {
+    background-color: black;
+}
+
+.km-my:after,
+.km-my:before {
+    content: "\e319";
+}
+
+.km-gallery:after,
+.km-gallery:before {
+    content: "\e07c";
+}
+
+#small {
+    font-size: 0.7em;
+}
+
+#add-photo {
+    display: block;
+}

@@ -1,0 +1,20 @@
+<div data-role="view" data-title="Add" data-layout="layout" data-model="app.Add">
+    <div data-role="tabstrip" class="top-tabstrip">
+        <div data-role="touch" data-bind="events: { tap: addPhoto }">
+            <a data-role="button" data-icon="camera" id="add-photo">Add Photo</a>
+        </div>
+    </div>
+    <p>closest sites</p>
+    <ul data-role="listview" data-style="inset" data-template="contactsTemplate" data-bind="source: ds"></ul>
+    <div data-role="footer">
+        <div data-role="tabstrip">
+            <a href="views/welcome.html" data-icon="home">Home</a>
+            <a href="views/add.html" data-icon="add">Search/Add</a>
+            <a href="views/gallery.html" data-icon="gallery">Gallery</a>
+        </div>
+        <p>&copy; <span data-bind="text: getYear"></span> Team Morpheus</p>
+    </div>
+</div>
+<script type="text/x-kendo-template" id="contactsTemplate">
+    <a data-bind="click: alert">#: data.id# - #: data.name# </a>
+</script>

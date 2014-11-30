@@ -1,0 +1,18 @@
+<div data-role="view" data-title="Welcome" data-layout="layout" data-id="welcome" data-model="app.Welcome" data-show="app.Welcome.show">
+    <div data-role="header">
+        <div data-role="navbar">
+            <h2 class="center-block" id="user-greeting"></h2>
+        </div>
+    </div>
+    <div id="logout" data-role="touch" data-bind="events: { tap: logout }">
+        <a data-role="button" class="btn btn-logout">Logout</a>
+    </div>
+    <div data-role="footer">
+        <div data-role="tabstrip">
+            <a href="views/welcome.html" data-icon="home">Home</a>
+            <a href="views/add.html" data-icon="add">Search/Add</a>
+            <a href="views/gallery.html" data-icon="gallery">Gallery</a>
+        </div>
+        <p>&copy; <span data-bind="text: getYear"></span> Team Morpheus</p>
+    </div>
+</div>

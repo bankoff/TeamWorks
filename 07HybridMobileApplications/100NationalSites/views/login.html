@@ -1,0 +1,37 @@
+<div data-role="view" data-layout="main" class="welcome-scrn form-view" data-model="app.Login" data-init="app.Login.init" data-show="app.Login.show">
+    <div data-role="header"></div>
+    <h2 class="app-logo hide-text center-block">100 National Sites</h2>
+    <h1 class="app-name center-text">100 <small>National Sites</small></h1>
+    <div id="login-block">
+        <form id="login-form">
+            <ul data-role="listview" data-style="inset">
+                <li class="username"><input type="text" id="loginUsername" placeholder="Username" required validationmessage="Username is required!" /></li>
+                <li class="password"><input type="password" id="loginPassword" placeholder="Password" required validationmessage="Password is required!" /></li>
+            </ul>
+        </form>
+        <ol class="group-wrp">
+            <li>
+                <span id="login" data-role="touch" data-bind="events: { tap: login }">
+                    <a data-role="button" class="btn btn-login">Login</a>
+                </span>
+            </li>
+            <li class="oauth cf">
+                <span id="loginWithFacebook" class="oauth-item" data-role="touch" data-bind="events: { tap: loginWithFacebook }">
+                    <a data-role="button" class="btn btn-login-fb">Login with Facebook</a>
+                </span>
+                <span id="loginWithGoogle" class="oauth-item" data-role="touch" data-bind="events: { tap: loginWithGoogle }">
+                    <a data-role="button" class="btn btn-login-google">Login with Google</a>
+                </span>
+                <span id="loginWithLiveID" class="oauth-item" data-role="touch" data-bind="events: { tap: loginWithLiveID }">
+                    <a data-role="button" class="btn btn-login-liveid">Login with Live ID</a>
+                </span>
+                <span id="loginWithADSF" class="oauth-item" data-role="touch" data-bind="events: { tap: loginWithADSF }">
+                    <a data-role="button" class="btn btn-login-adsf">Login with ADSF</a>
+                </span>
+            </li>
+            <li class="signup">
+                <a data-role="button" href="views/signupView.html" class="btn-signup" id="small">Don't have an account?</a>
+            </li>
+        </ol>
+    </div>
+</div>
