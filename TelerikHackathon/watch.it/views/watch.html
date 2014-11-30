@@ -1,0 +1,22 @@
+<div data-role="view" data-title="Watch" data-layout="main-layout" data-model="app.Watch" data-show="app.Watch.show">
+    <div data-role="header">
+        <div data-role="navbar">
+            <div  id="settings-watch" data-role="touch" data-bind="events: { tap: settings }">
+                <a data-role="button" class="btn btn-profile" data-icon="settings" style="width: 60px; float: left; background: none"></a>
+            </div>
+                <h3 style="display:inline-block" class="center-block" id="user-greeting-watch"></h3>  
+            <div id="logout-watch" data-role="touch" data-bind="events: { tap: logout }" style="display: inline-block; float: right">
+                <a data-role="button" class="btn btn-logout" data-icon="action" style="width: 60px; background: none"></a>
+            </div>
+        </div>
+    </div>
+    <div>
+        
+    </div>
+    <ul data-template="imagesTemplate" data-role="listview" data-bind="source: imagesDataList" id="imagesList"></ul>
+</div>
+
+<script type="text/x-kendo-template" id="imagesTemplate">
+        <img src='#: Uri #' style='width:30%' />
+        <span style="color: black">#: Text #</span>
+</script>
