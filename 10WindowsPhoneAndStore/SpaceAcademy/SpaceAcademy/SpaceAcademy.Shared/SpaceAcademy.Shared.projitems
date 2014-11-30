@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>42a06e61-ba88-4eaf-b4ac-cbb30c8d855d</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>SpaceAcademy</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Common\NavigationHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\ObservableDictionary.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\RelayCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\SuspensionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CustomViews\CanvasListView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DBModels\GameScore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DBModels\QuestionsWithAnswers.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\ExitPage.xaml.cs">
+      <DependentUpon>ExitPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\GameOverPage.xaml.cs">
+      <DependentUpon>GameOverPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\GamePage.xaml.cs">
+      <DependentUpon>GamePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\HighScores.xaml.cs">
+      <DependentUpon>HighScores.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\PausePage.xaml.cs">
+      <DependentUpon>PausePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\QuestionPage.xaml.cs">
+      <DependentUpon>QuestionPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)SQLite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SQLiteAsync.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Creatures\AsteroidViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Creatures\GameObjectViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Creatures\GamePageViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Creatures\GameScoreViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Creatures\HighScoresViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Creatures\PlayerViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Creatures\PositionViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\GameViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="$(MSBuildThisFileDirectory)Pages\ExitPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Pages\GameOverPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Pages\GamePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Pages\HighScores.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Pages\MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Pages\PausePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Pages\QuestionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Images\animated-ufo.gif" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\asteroid.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\galaxy.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\background.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\space-cool.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\ufo.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\ufo_gray_red_blue.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sounds\backsound.mp3" />
+  </ItemGroup>
+</Project>

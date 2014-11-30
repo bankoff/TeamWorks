@@ -1,0 +1,50 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="SpaceAcademy.Pages.GamePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SpaceAcademy.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:customViews ="using:SpaceAcademy.CustomViews"
+    mc:Ignorable="d"
+    ManipulationMode="TranslateY"
+                                              
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:ConnectionId='2' x:Name="LayoutRoot"
+                                                >
+        <Grid.Background>
+            <ImageBrush ImageSource="../Images/galaxy.jpg" />
+        </Grid.Background>
+        <!--AreTransportControlsEnabled="True"/>-->
+
+        <Canvas x:ConnectionId='3' Name="rootPanel"                          >
+            <MediaElement x:Name="mediaPlayer" 
+                      Source="../Sounds/backsound.mp3" 
+                      AutoPlay="True" 
+                      IsLooping="True"/>
+            <customViews:CanvasListView ItemsSource="{Binding GameObjects}"
+                                        Width="{Binding Width}"
+                                        Height="{Binding Height}"
+                                        SelectionMode="None">
+                <customViews:CanvasListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas Width="{Binding Width}"
+                                Height="{Binding Height}" />
+                    </ItemsPanelTemplate>
+                </customViews:CanvasListView.ItemsPanel>
+
+                <customViews:CanvasListView.ItemTemplate>
+                    <DataTemplate>
+                        <Image Source="{Binding ImageSource}"
+                            Width="{Binding Size}"
+                                 Height="{Binding Size}"
+                                 Canvas.Top="{Binding Top}"
+                                 Canvas.Left="{Binding Left}"/>
+                    </DataTemplate>
+                </customViews:CanvasListView.ItemTemplate>
+            </customViews:CanvasListView>
+        </Canvas>
+    </Grid>
+</Page>
+
